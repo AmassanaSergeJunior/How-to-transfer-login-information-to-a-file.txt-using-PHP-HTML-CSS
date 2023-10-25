@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    background-color: rgba(210, 105, 30, 0.225);
+}
+form{
+    
+    position: relative;
+    top: 10%;
+}
+form .tes1{
+margin-bottom: 4%;
+}
+input{
+    width: 40%;
+    height: 30px;
+    border-radius: 5px;
+}
+select{
+    width: 40%;
+    height: 30px;
+    border-radius: 5px;
+}
+button{
+    width: 50%;
+    height: 50px;
+    border-radius: 2% 2%;
+}
